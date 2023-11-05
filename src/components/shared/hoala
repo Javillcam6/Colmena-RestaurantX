@@ -1,0 +1,35 @@
+<div className='bg-[#1F1D2A] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2'>
+                <img src='src\assets\imgs\yogurt.png' className='w-40 object-over -mt-20 shadow-lg rounded-full'/>
+                <p className='text-xl'>Yogurt con frutas frescas, avena y especies</p>
+                <span className='text-gray-400'>$99.00</span>
+              </div>
+              {/*card*/}
+              <div className='bg-[#1F1D2A] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2'>
+                <img src='src\assets\imgs\Huevos-1.png' className='w-40 object-over -mt-20 shadow-lg rounded-full'/>
+                <p className='text-xl'>Yogurt con frutas frescas, avena y especies</p>
+                <span className='text-gray-400'>$99.00</span>
+              </div>
+              {/*card*/}
+              <div className='bg-[#1F1D2A] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2'>
+                <img src='src\assets\imgs\Huevos-2.png' className='w-40 object-over -mt-20 shadow-lg rounded-full'/>
+                <p className='text-xl'>Yogurt con frutas frescas, avena y especies</p>
+                <span className='text-gray-400'>$99.00</span>
+              </div>
+              {/*card*/}
+              <div className='bg-[#1F1D2A] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2'>
+                <img src='src\assets\imgs\Huevos-3.png' className='w-40 object-over -mt-20 shadow-lg rounded-full'/>
+                <p className='text-xl'>Yogurt con frutas frescas, avena y especies</p>
+                <span className='text-gray-400'>$99.00</span>
+              </div>
+              {/*card*/}
+              <div className='bg-[#1F1D2A] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2'>
+                <img src='src\assets\imgs\Huevos-4.png' className='w-40 object-over -mt-20 shadow-lg rounded-full'/>
+                <p className='text-xl'>Yogurt con frutas frescas, avena y especies</p>
+                <span className='text-gray-400'>$99.00</span>
+              </div>
+              {/*card*/}
+              <div className='bg-[#1F1D2A] p-8 rounded-xl flex flex-col items-center text-center text-gray-300 gap-2'>
+                <img src='src\assets\imgs\Huevos-5.png' className='w-40 object-over -mt-20 shadow-lg rounded-full'/>
+                <p className='text-xl'>Yogurt con frutas frescas, avena y especies</p>
+                <span className='text-gray-400'>$99.00</span>
+              </div>
