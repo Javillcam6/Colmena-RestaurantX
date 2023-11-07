@@ -3,15 +3,14 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore/lite"
 
 
-
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAE7PmL8fW_xqtWioc2vSTQwgM77sKsUkM",
-  authDomain: "colmena-restaurant.firebaseapp.com",
-  projectId: "colmena-restaurant",
-  storageBucket: "colmena-restaurant.appspot.com",
-  messagingSenderId: "131837902401",
-  appId: "1:131837902401:web:cec8f3816b41f8dc31d0c0"
+  apiKey: "AIzaSyD4-4qqa8NKySeq3Ni9ZRwkWWUU08wJCco",
+  authDomain: "colmena-rest.firebaseapp.com",
+  projectId: "colmena-rest",
+  storageBucket: "colmena-rest.appspot.com",
+  messagingSenderId: "998192182551",
+  appId: "1:998192182551:web:c111d4bf929d5b23543352"
 };
 
 // Initialize Firebase
