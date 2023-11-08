@@ -8,7 +8,7 @@ import { RiMenu3Fill, RiRestaurant2Fill, RiReservedFill, RiCloseFill, RiArrowDow
 import Reservation from "./Reservation";
 //IMAGENES DE MENU///////////////////////////
 import Huevos1 from '../../assets/imgs/Huevos-1.png';
-import Huevos2 from '../../assets/imgs/Huevos-2.png';
+import Huevos2 from '../../assets/imgs/huevos-2.png';
 import Huevos3 from '../../assets/imgs/Huevos-3.png';
 import Huevos4 from '../../assets/imgs/Huevos-4.png';
 import Huevos5 from '../../assets/imgs/Huevos-5.png';
